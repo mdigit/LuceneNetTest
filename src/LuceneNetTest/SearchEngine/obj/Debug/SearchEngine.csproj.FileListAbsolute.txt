@@ -1,0 +1,13 @@
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\bin\Debug\LuceneNetTest.SearchEngine.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\bin\Debug\LuceneNetTest.SearchEngine.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\bin\Debug\Lucene.Net.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\bin\Debug\Lucene.Net.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\bin\Debug\Lucene.Net.xml
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\obj\Debug\LuceneNetTest.SearchEngine.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\obj\Debug\LuceneNetTest.SearchEngine.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\bin\Debug\LuceneNetTest.Dal.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\bin\Debug\LuceneNetTest.Model.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\bin\Debug\LuceneNetTest.Dal.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\SearchEngine\bin\Debug\LuceneNetTest.Model.pdb

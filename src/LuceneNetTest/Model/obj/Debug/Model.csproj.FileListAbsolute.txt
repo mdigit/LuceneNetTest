@@ -1,0 +1,5 @@
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Model\bin\Debug\LuceneNetTest.Model.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Model\bin\Debug\LuceneNetTest.Model.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Model\obj\Debug\LuceneNetTest.Model.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Model\obj\Debug\LuceneNetTest.Model.pdb

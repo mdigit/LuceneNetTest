@@ -1,0 +1,15 @@
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\Console.exe.config
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\Console.exe
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\Console.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\LuceneNetTest.Dal.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\LuceneNetTest.Model.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\LuceneNetTest.SearchEngine.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\Lucene.Net.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\LuceneNetTest.Dal.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\LuceneNetTest.Model.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\LuceneNetTest.SearchEngine.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\Lucene.Net.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\bin\Debug\Lucene.Net.xml
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\obj\Debug\Console.exe
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Console\obj\Debug\Console.pdb

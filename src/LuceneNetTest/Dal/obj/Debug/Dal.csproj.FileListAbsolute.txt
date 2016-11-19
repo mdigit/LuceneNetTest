@@ -1,0 +1,7 @@
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Dal\bin\Debug\LuceneNetTest.Dal.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Dal\bin\Debug\LuceneNetTest.Dal.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Dal\bin\Debug\LuceneNetTest.Model.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Dal\bin\Debug\LuceneNetTest.Model.pdb
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Dal\obj\Debug\LuceneNetTest.Dal.dll
+C:\_git\mdigit\LuceneNetTest\src\LuceneNetTest\Dal\obj\Debug\LuceneNetTest.Dal.pdb
